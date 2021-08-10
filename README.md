@@ -1,3 +1,12 @@
+[![GitHub issues](https://img.shields.io/github/issues/kbronik2017/DCT_DST_CUDA_MATLAB_UCL)](https://github.com/kbronik2017/DCT_DST_CUDA_MATLAB_UCL/issues)
+[![GitHub forks](https://img.shields.io/github/forks/kbronik2017/DCT_DST_CUDA_MATLAB_UCL)](https://github.com/kbronik2017/DCT_DST_CUDA_MATLAB_UCL/network)
+[![GitHub stars](https://img.shields.io/github/stars/kbronik2017/DCT_DST_CUDA_MATLAB_UCL)](https://github.com/kbronik2017/DCT_DST_CUDA_MATLAB_UCL/stargazers)
+
+
+
+
+
+
 # DCT\_DST\_OnetoFour(double and single)-MATLAB\_CUDA\_MEX
 
 
